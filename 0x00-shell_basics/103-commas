@@ -1,1 +1,2 @@
-#!/bin/bash/nls -mpax --group-directories-first/n
+#!/bin/bash
+ls -mpax --group-directories-first/n

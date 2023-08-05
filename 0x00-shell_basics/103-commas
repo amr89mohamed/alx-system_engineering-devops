@@ -1,2 +1,4 @@
 #!/bin/bash
-ls -mpaX --group-directories-first 
+ls -mpax --group-directories-first
+echo -e '\n'
+

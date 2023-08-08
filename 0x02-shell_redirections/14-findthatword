@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -rni "root" /etc/passwd
+grep -Fni "root" /etc/passwd
